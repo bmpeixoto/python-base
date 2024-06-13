@@ -1,2 +1,2 @@
 print("Hello, Word!")
-print("Feito na Web!)
+print("Feito na Web!")
